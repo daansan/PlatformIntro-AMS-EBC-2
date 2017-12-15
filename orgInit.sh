@@ -4,7 +4,7 @@ sfdx force:user:permset:assign -n Cat_Extra_Permission
 sfdx force:user:password:generate
 sfdx msm:data:file:upload -f ./assets/einstein_platform.pem
 sfdx force:apex:execute -f ./scripts/setupEinstein.cls
-sfdx force:data:tree:import -f ./data/Cat__cn.json
+sfdx force:data:tree:import -f ./data/Cat__c.json
 sfdx force:data:tree:import -f ./data/Interested_Person__c.json
 sfdx force:apex:execute -f ./scripts/setupChatter.cls
 sfdx force:org:open
