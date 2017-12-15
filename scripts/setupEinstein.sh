@@ -37,6 +37,6 @@ sfdx force:apex:execute -f $_APEX_OUTPUT $DEFAULTORG
 
 echo "Apex executed"
 
-rm -f $_APEX_OUTPUT
+# rm -f $_APEX_OUTPUT
 
 echo "Done!"
