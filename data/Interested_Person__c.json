@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Interested_Person__c",
+                "referenceId": "Interested_Person__cRef1"
+            },
+            "Name": "Tim"
+        },
+        {
+            "attributes": {
+                "type": "Interested_Person__c",
+                "referenceId": "Interested_Person__cRef2"
+            },
+            "Name": "Sue"
+        },
+        {
+            "attributes": {
+                "type": "Interested_Person__c",
+                "referenceId": "Interested_Person__cRef3"
+            },
+            "Name": "Mark"
+        }
+    ]
+}

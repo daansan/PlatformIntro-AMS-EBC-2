@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Cat__c",
+                "referenceId": "Cat__cRef1"
+            },
+            "Name": "James Hetfield"
+        },
+        {
+            "attributes": {
+                "type": "Cat__c",
+                "referenceId": "Cat__cRef2"
+            },
+            "Name": "Lenny Kravitz"
+        },
+        {
+            "attributes": {
+                "type": "Cat__c",
+                "referenceId": "Cat__cRef3"
+            },
+            "Name": "Alicia Keys"
+        }
+    ]
+}

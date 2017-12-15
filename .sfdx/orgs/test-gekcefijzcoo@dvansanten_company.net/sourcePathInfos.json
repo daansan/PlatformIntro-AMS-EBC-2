@@ -1,0 +1,1901 @@
+[
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513086824000,
+            "changeTime": 1513086824000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513086824000,
+            "changeTime": 1513086824000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 442,
+            "modifiedTime": 1513088734000,
+            "changeTime": 1513088734000,
+            "contentHash": "4fe6efd95455db8d288ddaf8853a40df8ffceefb"
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "a06f5bb26bb0d572577e23e4b0cf2e4d86ea7fb7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/applications/Cat_Rescue.app-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/applications/Cat_Rescue.app-meta.xml",
+            "isDirectory": false,
+            "size": 617,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "cf64f58863c492a04b69b81ed91cb4578245df19",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/applications/Einstein_Vision.app-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/applications/Einstein_Vision.app-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "6e13e867cfdd9c1480d19997838b203a57601782",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "d3949950730c877f6e092352801824bd9885f1ca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "1ec27273839af7756655904910dc704237ad9ce9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_Delete.cmp",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_Delete.cmp",
+            "isDirectory": false,
+            "size": 698,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "8de89cb7677610f66b17b4ef90c03c29d024cfb5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_Delete.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_Delete.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "ac6fc01d292aa6c1491f45f3c95a8a6af8f47966",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_DeleteController.js",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_DeleteController.js",
+            "isDirectory": false,
+            "size": 167,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "10ed4cd9f239508c55599e2508db627286865bd1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_DeleteHelper.js",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/Cat_Attachment_Delete/Cat_Attachment_DeleteHelper.js",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "2b4b27a69c5e40fe0b06fb3a2f14a81ba0a79b3a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "67831e226848c3d84accf9efe8c4aff90a4174e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UI.cmp",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UI.cmp",
+            "isDirectory": false,
+            "size": 3903,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "ad3b21fec6741731125d264a94a8f8295994cc13",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UI.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UI.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UIController.js",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UIController.js",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "57e77c09a24ff33c5984675f94f3d2868cf171c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UIHelper.js",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/aura/EinsteinVision_Admin_UI/EinsteinVision_Admin_UIHelper.js",
+            "isDirectory": false,
+            "size": 5085,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "4cc40d66a5e2ab2f9a71aa2b5b8551962204bd33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 2176,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "3e4c195001898d917e8a232c810c7992913c68ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWT.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWT.cls",
+            "isDirectory": false,
+            "size": 2794,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d153274d930d1fcc8af5928966478dd780f07d27",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWT.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWT.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls",
+            "isDirectory": false,
+            "size": 1113,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "a82bc30b6e4bcaaa8197f1f89b5e65b0dbc5b650",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Admin.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Admin.cls",
+            "isDirectory": false,
+            "size": 3680,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "404f17df73a07ff564376e18dec85a06ab19ad55",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Admin.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Admin.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ApiUsage.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ApiUsage.cls",
+            "isDirectory": false,
+            "size": 586,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "700f8f0bb3fbb7e5e79146cb6338a333d36e33f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ApiUsage.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ApiUsage.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Dataset.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Dataset.cls",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "961e5354badd25820bff465e3f613e78b17eac0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Dataset.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Dataset.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_EpochResult.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_EpochResult.cls",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "ba3776c075163302c508742b721cea59ec558942",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_EpochResult.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_EpochResult.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Example.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Example.cls",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "3ec1a32ea95154ca18f768f9a8b002b9cb6bc68f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Example.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Example.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls",
+            "isDirectory": false,
+            "size": 7663,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "dc933f7b4759a010d6a5bb87252447465382a185",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls",
+            "isDirectory": false,
+            "size": 2218,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "39bba3fe79fd653f9db856f44c84172e9c3557da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls",
+            "isDirectory": false,
+            "size": 878,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "8227b77eff9b17e504f7c5c7a6fe62cdf7e59f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls",
+            "isDirectory": false,
+            "size": 2234,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "cb21e6157ba89537babe81369670d08369429107",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls",
+            "isDirectory": false,
+            "size": 1138,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "3c2600ccaac0af2dccd87a92d5d560a163203a9d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls",
+            "isDirectory": false,
+            "size": 1778,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "1374bef399a5eb178c284d4402d51d278d42bf4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls",
+            "isDirectory": false,
+            "size": 4221,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "173f9ae8e6ca0e1ab509f6f4500f86d7be7d9b63",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpClient.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpClient.cls",
+            "isDirectory": false,
+            "size": 4434,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "daf9d5e0b5c3b115034291335c9090e985c51c7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpClient.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_HttpClient.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Label.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Label.cls",
+            "isDirectory": false,
+            "size": 261,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "06e4d3c3b5b7ec711131205b0046f64c74667c2b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Label.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Label.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_LabelSummary.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_LabelSummary.cls",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "48a23c8f9df756b7a36d1ae3f447548cd6ae6381",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_LabelSummary.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_LabelSummary.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Model.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Model.cls",
+            "isDirectory": false,
+            "size": 903,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "6afd247d007793d569d5cf4be44fb626dfa5e17e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Model.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Model.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "1dbadd65ebb9cb75e25f2f43c568ec4e30fd241d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls",
+            "isDirectory": false,
+            "size": 422,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "076bf5bbf24d7c8098dea24aaf293e24eadfdc72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NoValuesException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NoValuesException.cls",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "8d05794d9d424f47f41e1a31886ecface1916b3f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NoValuesException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NoValuesException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NullPointerException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NullPointerException.cls",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "97fba3a97cab138d266448c7bda2044f1c8f523b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NullPointerException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NullPointerException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "8776bcb6c8d28df7b2f316ba598244acf99cd01a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "de4d9f030ae33ff0431fd08574e189ad48507ed9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PlanData.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PlanData.cls",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "44aa3befa6fcf4297b9d09eb6ea4e16f7e1ca197",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PlanData.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PlanData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionResult.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionResult.cls",
+            "isDirectory": false,
+            "size": 137,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "13b65a58426f89a633cbc85466b156b866ab85a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionResult.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionResult.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionService.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionService.cls",
+            "isDirectory": false,
+            "size": 33429,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "c2457705badda29147bfb324874929ba09a9db11",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionService.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_PredictionService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Probability.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Probability.cls",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "46b0a548ff90234af43647c0c5775379fb56ec5f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Probability.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_Probability.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "a12eed100c668a132c00054e84950fd987f04709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "79c6c519bdbef49e2cbd2334c130be6cbc77b117",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "61c8159f4d8829c36834710774a455241263152b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "2dbd6d1e4b7ae6d70c262f97deaaeb2b90d9c874",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/contentassets/IconkaMeow2Cathungry1.asset",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/contentassets/IconkaMeow2Cathungry1.asset",
+            "isDirectory": false,
+            "size": 16329,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "56fbf2525994880f349804f691b3fc6fef5e3e0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/contentassets/IconkaMeow2Cathungry1.asset-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/contentassets/IconkaMeow2Cathungry1.asset-meta.xml",
+            "isDirectory": false,
+            "size": 495,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "6f3269a5f1e14fbc07198b22b4501fda35ffcee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "16316306203311383332d3eb0f3806c9333fb3dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Cat_Record_Page2.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Cat_Record_Page2.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3072,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "41743acd7b7291d25643ab5170de4e2a57ac4dd9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Cat_Rescue_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Cat_Rescue_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 384,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "b0d13eb67865b3247457749e0147f0815b294b1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Einstein_Vision.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Einstein_Vision.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 496,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "03887f5b3fc20ace01735b82c6dd2f85bb575419",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Einstein_Vision_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/flexipages/Einstein_Vision_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "246cbc4d6e0401d4bf4eeab6c6a107b712b95c74",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/globalValueSets",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "c4e11ba3e5e60e2fe998e9d4d9cbe2b69dbc80ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/globalValueSets/Cat_Breed.globalValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/globalValueSets/Cat_Breed.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 620,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "4c038df2e2d9b3164d9cbf709aa1541f9a1cc55c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "4aa65b3deaad5204be7f4d0458ebd70c75b85e46",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/layouts/Cat__c-Cat Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/layouts/Cat__c-Cat Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 6797,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "ed6b60f3da39988a5d9b00aa7de01a0b42a976df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/layouts/Interested_Person__c-Interested Person Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/layouts/Interested_Person__c-Interested Person Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2086,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "200f06bffc62d518128cb26e953b99498a572261",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "a214432c73b7ff2abe7f6d1f153f411245e872e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "3ab340dec0b3a1ac183c4b4b60f31a73cc073f0a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/Cat__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/Cat__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2346,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "01825f49af622c34e268b1c5d3a5ab2d533d3bf6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/fields",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "b56b9260bc86b0aeec6db1dd95c0b8e0e2132f48",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/fields/Cat_Breed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/fields/Cat_Breed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "066e7b05fa2230c29d9c7227ad1657853d3451fb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/listViews",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Cat__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "b3a681615284e79d18b64b407f1ee0acddca09fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c/EinsteinAI_Settings__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c/EinsteinAI_Settings__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "c71ae60a71f8d3fd4f8766712f07e33027b3bc7e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c/fields",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "4d0e9c24a46a67bca322c1a73123926429b4222d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c/fields/Einstein_EMail__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/EinsteinAI_Settings__c/fields/Einstein_EMail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 350,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "170f2c062d3969d51710fd5e90e2b681ea3bd259",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "f1f0b786ea1d18846be97952dfa87140ec7e2739",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/Interested_Person__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/Interested_Person__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2148,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "51761ddb2cf4d746453736ce3215bfe9a4f08d94",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/fields",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "b56b9260bc86b0aeec6db1dd95c0b8e0e2132f48",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/fields/Cat_Breed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/fields/Cat_Breed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "066e7b05fa2230c29d9c7227ad1657853d3451fb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/listViews",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/objects/Interested_Person__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1513088511000,
+            "changeTime": 1513088511000,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "ac9d541d75a55ea2e17561fdd8b48ef7c1c207d6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/Cat__c.Delete_Attachments.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/Cat__c.Delete_Attachments.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "1bd4d72917cb26aaa2a2b2ee639d4a678e57ab21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/LogACall.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/LogACall.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1371,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "257b1d65c603f480b6dd072d12420fcadbfb6738",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewCase.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewCase.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1337,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "269b64041bbb75c52505d0d5961f35997129edf6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewContact.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewContact.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1535,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "7ff5124ac0090ce988eeb5cd130b46fc9d02aab7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewEvent.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewEvent.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 2183,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "d8cc968f4a751db8c40dc162e086651cb73903fd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewLead.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewLead.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1534,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "fa76b1578c08f69e674ab5272a403ceba0ee3d7d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewOpportunity.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewOpportunity.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1878,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "26eb510a7f9d9463b321535bbd98edae28ea7393",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewTask.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/NewTask.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1751,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "868593925da104ec521765b89298f08611d61dfc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/SendEmail.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/quickActions/SendEmail.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 2211,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "eb34e60b227192e238e9cc181b353169aa1bbed3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "41746a4037715b3471895042baa3ada6add87f0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs/Cat__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs/Cat__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "be511ac72d8d7c5d6e6ddc6f4a88c3645eab11da",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs/Einstein_Vision.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs/Einstein_Vision.tab-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "d0b7b1fd147241f009868b0180cd0bcb661d2ae8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs/Interested_Person__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/tabs/Interested_Person__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1513088512000,
+            "changeTime": 1513088512000,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2",
+        {
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1513088520000,
+            "changeTime": 1513088520000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22526,
+            "modifiedTime": 1513088734000,
+            "changeTime": 1513088734000,
+            "contentHash": "1e8f9b6f7835204f03764667f200f6d52ce6515a"
+        }
+    ],
+    [
+        "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dvansanten/Documents/Workspaces/PlatformIntro-AMS-EBC-2/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1513088734000,
+            "changeTime": 1513088734000,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
